@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FeetToCentemeters</string>
+    <string name="app_name">Height Converter</string>
     <string name="isEmptyCen">Please Enter Centemeters to Convert</string>
     <string name="isEmptyFeet">Please Enter Feets to Convert</string>
     <string name="convert">Convert</string>
